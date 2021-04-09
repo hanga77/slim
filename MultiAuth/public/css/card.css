@@ -1,0 +1,10 @@
+
+.cards .property-card{
+  width: 80%;
+}
+.cards img{
+  width: 100%;
+}
+.cards .property-description{
+  padding: 5px;
+}
